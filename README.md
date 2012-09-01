@@ -1,6 +1,6 @@
 # Define::Wn
 
-TODO: Write a gem description
+Looks up the word provided on the command line using WordNet Via www.dict.org. provides a definition and the type of word, I.E., noun, verbe, adjective etc...
 
 ## Installation
 
@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+define <word>
+
+## ToDo
+
+* tests
+* add depth to word type. should return array if there are multiple definitions.
+* allow use of more of the dict.org functionality.
+* allow use of some of the facny funtionality wordnet allows. 
 
 ## Contributing
 
