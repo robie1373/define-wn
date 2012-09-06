@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require './libdefine-wn'
+require './lib/define-wn'
 module Define
 
   word = ARGV[0] || "carrot"

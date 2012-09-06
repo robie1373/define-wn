@@ -1,11 +1,9 @@
 # -*- encoding: utf-8 -*-
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'define-wn/version'
+require File.expand_path('../lib/define-wn/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name          = "define-wn"
-  gem.version       = Define::Wn::VERSION
+  gem.version       = Define-wn::VERSION
   gem.authors       = ["Robie Lutsey"]
   gem.email         = ["robie1373@gmail.com"]
   gem.description   = %q{Look up words using WordNet}

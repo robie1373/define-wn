@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/robie1373/define)
 # Define::Wn
 
 Looks up the word provided on the command line using WordNet Via www.dict.org. provides a definition and the type of word, I.E., noun, verbe, adjective etc...

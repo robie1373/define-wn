@@ -1,5 +1,5 @@
 require 'mechanize'
-require "./lib/define/version"
+require "./lib/define-wn/version"
 
 module Define
 
