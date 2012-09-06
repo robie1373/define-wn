@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 coverage
 .idea
+=======
+>>>>>>> 2c4bb0a5e0ef77f6aa9fe6736586debf73a37aaf
 *.gem
 *.rbc
 .bundle
