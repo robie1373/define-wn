@@ -1,5 +1,3 @@
 module Define
-  module Wn
-    VERSION = "0.0.1"
-  end
+  VERSION = "0.0.1"
 end
